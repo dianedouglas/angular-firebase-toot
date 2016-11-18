@@ -1,0 +1,16 @@
+{
+  "name": "ng2-firebase-howto",
+  "version": "0.0.1",
+  "author": {
+    "name": "Diane Douglas",
+    "email": "diane.douglas1@gmail.com"
+  },
+  "homepage": "https://github.com/dianedouglas/angular-firebase-toot.git",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dianedouglas/angular-firebase-toot.git"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
