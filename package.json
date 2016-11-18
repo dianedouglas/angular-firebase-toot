@@ -11,6 +11,9 @@
     "url": "https://github.com/dianedouglas/angular-firebase-toot.git"
   },
   "devDependencies": {
-    "gulp": "^3.9.1"
+    "browser-sync": "^2.18.1",
+    "gulp": "^3.9.1",
+    "gulp-protractor": "^3.0.0",
+    "protractor": "^4.0.11"
   }
 }
